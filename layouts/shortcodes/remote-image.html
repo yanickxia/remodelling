@@ -1,0 +1,18 @@
+{{- $url := .Get "url" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $width := .Get "width" -}}
+{{- $height := .Get "height" -}}
+
+{{- $image := resources.GetRemote $url -}}
+{{- if $image -}}
+  {{- if $width -}}
+    {{- if $height -}}
+      {{- $image = $image.Resize (printf "%sx%s webp q90" $width $height) -}}
+    {{- else -}}
+      {{- $image = $image.Resize (printf "%sx webp q90" $width) -}}
+    {{- end -}}
+  {{- end -}}
+  <img src="{{ $image.RelPermalink }}" alt="{{ $alt }}" {{ with $width }}width="{{ $width }}"{{ end }} {{ with $height }}height="{{ $height }}"{{ end }}>
+{{- else -}}
+  <div class="error-message">无法加载图片: {{ $url }}</div>
+{{- end -}}
