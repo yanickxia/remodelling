@@ -3,6 +3,10 @@ languageCode = 'zh-CN'
 title = '装修全指南'
 theme = "hugo-book"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # Book configuration
 disablePathToLower = true
