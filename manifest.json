@@ -1,14 +1,14 @@
 {
   "name": "装修全指南",
   "short_name": "装修全指南",
-  "start_url": "/remodelling/",
-  "scope": "/remodelling/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/remodelling/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]

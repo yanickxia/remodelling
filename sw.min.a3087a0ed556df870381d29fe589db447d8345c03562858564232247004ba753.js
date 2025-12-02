@@ -1,1 +1,0 @@
-navigator.serviceWorker&&navigator.serviceWorker.register("/remodelling/sw.js",{scope:"/remodelling/"})
