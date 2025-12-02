@@ -1,4 +1,4 @@
-baseURL = 'https://yanickxia.github.io/remodelling/'
+baseURL = 'https://remodelling.pages.yanick.site/'
 languageCode = 'zh-CN'
 title = '装修全指南'
 theme = "hugo-book"
