@@ -1,7 +1,6 @@
 ---
 bookCollapseSection: true
 title: "门窗"
-weight: 6
 ---
 
 ## 系统门窗选择
