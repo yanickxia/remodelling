@@ -7,6 +7,10 @@ title: "门窗"
 
 推荐查看 [系统门窗选择（抖音视频）](https://v.douyin.com/6lM-jfR4J9U/)
 
+### 结构速读
+
+<img src="https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/20251222/1f6bd70d3e28ff51f715ba8abd9b340a.7lkgl54qny.webp" alt="1f6bd70d3e28ff51f715ba8abd9b340a" />
+
 ### 门窗结构
 
 <img src="https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/截图_2_47.1lc89qwc82.webp" alt="系统门窗结构" width="800" >
