@@ -1,6 +1,6 @@
 ---
 title: "基础分层"
-weight: 4
+weight: 3
 ---
 
 在了解施工报价之前，我们需要知道我们整个家里到底是怎么构成的。
@@ -34,6 +34,7 @@ weight: 4
 ### 卫生间地面
 现在下沉式卫生间很多，这里单独列举出来
 
+<img src="https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/20260113/Gemini_Generated_Image_2qlzf52qlzf52qlz-(1).9gx296x3r8.webp" alt="Gemini_Generated_Image_2qlzf52qlzf52qlz-(1)" />
 
 
 - `楼板`：是卫生间地面的结构基础，承担地面所有层级的承重作用，提供稳定支撑。
@@ -44,7 +45,28 @@ weight: 4
 - `瓷砖粘结层`：用专用瓷砖胶将防滑瓷砖与基层牢固粘结，确保瓷砖铺贴后不易脱落、移位。
 - `防滑瓷砖`：是卫生间地面的装饰与功能表层，兼具防滑、耐磨、易清洁的特点，同时保护内部防水结构。
 
-<img src="https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/20260113/Gemini_Generated_Image_2qlzf52qlzf52qlz-(1).9gx296x3r8.webp" alt="Gemini_Generated_Image_2qlzf52qlzf52qlz-(1)" />
+
+
+### 木板地面
+
+![Gemini_Generated_Image_our9qvour9qvour9](https://github.com/yanickxia/picx-images-hosting/raw/master/Gemini_Generated_Image_our9qvour9qvour9.3uvbvl92bj.webp)
+
+- `楼板`：是木板地面的结构基础，承担地面所有层级的承重作用，提供稳定支撑。
+- `原始砂浆找平层`：对楼板表面进行初步找平处理，填补楼板的不平整，为后续层做基础铺垫。
+- `二次找平层`：进一步细化地面平整度，让基底更光滑均匀，确保后续防潮层、木地板的铺设效果。
+- `防潮层`：阻挡地面潮气向上渗透，避免木地板受潮变形、发霉，保护木地板的耐用性。
+- `木地板`：是地面的装饰与功能表层，兼具美观、脚感舒适的特点，同时起到保护内部层级的作用。
+
+
+### 龙骨木板地面
+
+![Gemini_Generated_Image_pzzgekpzzgekpzzg](https://github.com/yanickxia/picx-images-hosting/raw/master/Gemini_Generated_Image_pzzgekpzzgekpzzg.13m9nim1oe.webp)
+
+- `楼板`：是木板地面的结构基础，承担地面所有层级的承重作用，提供稳定支撑。
+- `找平层`：将楼板表面处理平整，为后续防潮层、木龙骨的安装铺垫均匀的基底。
+- `防潮层`：阻挡地面潮气向上渗透，避免木龙骨、木地板受潮变形、发霉，保护木质构件的耐用性。
+- `木龙骨`：是木地板的支撑框架，通过固定在找平层上形成架空结构，既提升木地板的脚感弹性，也辅助分散承重。
+- `木地板`：是地面的装饰与功能表层，兼具美观、脚感舒适的特点，同时保护内部层级。
 
 ## 墙面
 
