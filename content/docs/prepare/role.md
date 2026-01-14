@@ -59,6 +59,10 @@ weight: 2
   - 开心住：性价比突出，适合预算中等、关注关键节点验收的业主
 - **合作提示**：提前告知工长聘请监理的决定，若对方明显排斥，需警惕施工质量可能存在不规范风险
 
+这里以 `牛角监` 为例
+
+![e1bdcf59a0919a51967abd7cd35b6079](https://github.com/yanickxia/picx-images-hosting/raw/master/e1bdcf59a0919a51967abd7cd35b6079.3rbpz0tfq6.webp)
+
 ---
 
 ## 装饰公司：打包服务的优劣势解析

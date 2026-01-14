@@ -136,7 +136,8 @@ weight: 1
 
 施工方式：将回填材料、沙、水泥一定要按照3:2:1的比例充分搅拌均匀
 
-相关国标 [JGJ 142-2012 辐射供暖供冷技术规程‌](https://pro5323b5d3-pic11.ysjianzhan.cn/upload/5JGJ142-2012FSGNGLJSGC.pdf) 3.2.7 章节
+#### 相关国标 
+- [JGJ 142-2012 辐射供暖供冷技术规程‌](https://pro5323b5d3-pic11.ysjianzhan.cn/upload/5JGJ142-2012FSGNGLJSGC.pdf) 3.2.7 章节
 
 ## 报价
 新建部分的报价应该如下
