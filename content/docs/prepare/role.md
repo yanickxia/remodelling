@@ -61,7 +61,7 @@ weight: 2
 
 这里以 `牛角监` 为例
 
-![e1bdcf59a0919a51967abd7cd35b6079](https://github.com/yanickxia/picx-images-hosting/raw/master/e1bdcf59a0919a51967abd7cd35b6079.3rbpz0tfq6.webp)
+![e1bdcf59a0919a51967abd7cd35b6079](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/e1bdcf59a0919a51967abd7cd35b6079.3rbpz0tfq6.webp)
 
 ---
 

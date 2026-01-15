@@ -77,7 +77,7 @@ weight: 1
 
 在一些特殊的拆除之后，会导致地面的楼板缺失，就需要进行楼板浇筑，简单来说就是搭钢筋，浇筑混凝土，形成楼板
 
-![image](https://github.com/yanickxia/picx-images-hosting/raw/master/image.6iks5zj5o8.webp)
+![image](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/image.6iks5zj5o8.webp)
 
 **步骤1：弹线定位**  
 - 用墨线弹出楼板**边界线**（与墙体/钢梁对齐）及**标高线**（楼板顶面高度）；  

@@ -49,7 +49,7 @@ weight: 3
 
 ### 木板地面
 
-![Gemini_Generated_Image_our9qvour9qvour9](https://github.com/yanickxia/picx-images-hosting/raw/master/Gemini_Generated_Image_our9qvour9qvour9.3uvbvl92bj.webp)
+![Gemini_Generated_Image_our9qvour9qvour9](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/Gemini_Generated_Image_our9qvour9qvour9.3uvbvl92bj.webp)
 
 - `楼板`：是木板地面的结构基础，承担地面所有层级的承重作用，提供稳定支撑。
 - `原始砂浆找平层`：对楼板表面进行初步找平处理，填补楼板的不平整，为后续层做基础铺垫。
@@ -60,7 +60,7 @@ weight: 3
 
 ### 龙骨木板地面
 
-![Gemini_Generated_Image_pzzgekpzzgekpzzg](https://github.com/yanickxia/picx-images-hosting/raw/master/Gemini_Generated_Image_pzzgekpzzgekpzzg.13m9nim1oe.webp)
+![Gemini_Generated_Image_pzzgekpzzgekpzzg](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/Gemini_Generated_Image_pzzgekpzzgekpzzg.13m9nim1oe.webp)
 
 - `楼板`：是木板地面的结构基础，承担地面所有层级的承重作用，提供稳定支撑。
 - `找平层`：将楼板表面处理平整，为后续防潮层、木龙骨的安装铺垫均匀的基底。

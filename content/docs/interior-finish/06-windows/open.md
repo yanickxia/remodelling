@@ -17,7 +17,7 @@ weight: 2
 
 ### 内开
 向内开的，就是内开
-![image](https://github.com/yanickxia/picx-images-hosting/raw/master/image.3yew9m4zeo.webp)
+![image](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/image.3yew9m4zeo.webp)
 
 ### 外开
 向外开的，就是外开
@@ -28,7 +28,7 @@ weight: 2
 
 可以从上面打开一条十厘米左右的缝隙，打开的部分悬于室内。
 
-![image](https://github.com/yanickxia/picx-images-hosting/raw/master/image.77e069r5jx.webp)
+![image](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/image.77e069r5jx.webp)
 
 ### 上悬
 
@@ -39,18 +39,18 @@ weight: 2
 
 ## 推拉窗
 
-![image](https://github.com/yanickxia/picx-images-hosting/raw/master/image.lw6f8t0te.webp)
+![image](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/image.lw6f8t0te.webp)
 
 普通推拉门以毛条来封闭，会有很差的气密性
 
-![image](https://github.com/yanickxia/picx-images-hosting/raw/master/image.1vz3lkdldu.webp)
+![image](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/image.1vz3lkdldu.webp)
 
 毛条最多挡挡灰，并没什么气密性可言，为了解决气密性，这里有几个几个变种
 
 ### 提升扇
 
 <video controls autoplay muted loop poster="">
-<source src="https://github.com/yanickxia/picx-images-hosting/raw/master/20251205/3bfec54fe0bf8c32e11d5c70525eec25.mp4" type="video/mp4">
+<source src="https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/20251205/3bfec54fe0bf8c32e11d5c70525eec25.mp4" type="video/mp4">
 您的浏览器不支持 HTML5 视频，请升级或换用 Chrome、Edge、Firefox 等现代浏览器。
 </video>
 

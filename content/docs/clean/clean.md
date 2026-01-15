@@ -7,7 +7,7 @@ weight: 2
 
 在拆旧阶段，我们需要先了解一下我们的房屋结构，这会帮助我们更好地了解施工报价。可以再复习一下 [基础分层](/docs/prepare/layer/)
 
-![Gemini_Generated_Image_3f9qx3f9qx3f9qx3](https://github.com/yanickxia/picx-images-hosting/raw/master/Gemini_Generated_Image_3f9qx3f9qx3f9qx3.2rvmkn22uo.webp)
+![Gemini_Generated_Image_3f9qx3f9qx3f9qx3](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/Gemini_Generated_Image_3f9qx3f9qx3f9qx3.2rvmkn22uo.webp)
 
 
 ## 基本拆除
@@ -59,7 +59,7 @@ weight: 2
 
 ### 木地板
 
-![Gemini_Generated_Image_caq1j7caq1j7caq1](https://github.com/yanickxia/picx-images-hosting/raw/master/Gemini_Generated_Image_caq1j7caq1j7caq1.7p43eju2td.webp)
+![Gemini_Generated_Image_caq1j7caq1j7caq1](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/Gemini_Generated_Image_caq1j7caq1j7caq1.7p43eju2td.webp)
 
 -  必拆的表层与辅助层（2-3 层）
 这几层是拆旧地板的核心目标，必须彻底清除，为新地板铺设创造基础条件。
