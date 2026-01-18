@@ -173,9 +173,11 @@ weight: 1
 传统的装修模式是“买水泥 + 买沙子”让工人在现场拿着铁锹搅拌。而现在的趋势（也是国家推广的方向）是使用**预拌砂浆**。
 它是工厂按科学比例将水泥、沙子、添加剂混合好的干粉，买回家**只加水，不加沙**。
 
+![Gemini_Generated_Image_gk6fipgk6fipgk6f](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/20260118/Gemini_Generated_Image_gk6fipgk6fipgk6f.3d5adwa74u.webp)
+
 ### 核心国标与定义
 
-- **执行标准**：**GB/T 25181-2019《预拌砂浆》**
+- **执行标准**：**[GB/T 25181-2019《预拌砂浆》](https://pan.baidu.com/s/1FOcI6qfwnMUzyr1DtKNGKw?pwd=99t7)**
   - **别名**：干混砂浆、干粉砂浆。
   - **成分**：
     - **胶凝材料**：水泥（通常是 P.O 42.5）。
