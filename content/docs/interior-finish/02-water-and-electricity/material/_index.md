@@ -1,5 +1,5 @@
 ---
-title: "材料"
+title: "水电材料"
 weight: 1
 ---
 
@@ -271,8 +271,6 @@ weight: 1
 
 ### 相关国标
 - [JG/T3050-1998：建筑用绝缘电工套管及配件](https://baike.baidu.com/item/%E5%BB%BA%E7%AD%91%E7%94%A8%E7%BB%9D%E7%BC%98%E7%94%B5%E5%B7%A5%E5%A5%97%E7%AE%A1%E5%8F%8A%E9%85%8D%E4%BB%B6/16350190)
-
-
 ## 水管
 
 ### 简易入门
