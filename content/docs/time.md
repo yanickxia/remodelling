@@ -16,4 +16,4 @@ weight: 1
 - [硬装阶段](docs/interior-finish/)
 - [软装阶段](docs/interior-finish/)
 
-![image](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/20260112/image.wj1qm83v3.webp)
+![Gemini_Generated_Image_9ewg649ewg649ewg](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/20260122/Gemini_Generated_Image_9ewg649ewg649ewg.9o0ahro58m.webp)

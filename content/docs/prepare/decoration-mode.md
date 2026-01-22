@@ -15,7 +15,7 @@ weight: 1
 
 >  市场上大多数的装修模式都是动态调整的，半包里面混合一些施工方渠道的软装也是比较常见的
 
-<img src="https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/image.8ok3hxlr1l.webp" alt="image">
+![Gemini_Generated_Image_otvjl2otvjl2otvj](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/20260122/Gemini_Generated_Image_otvjl2otvjl2otvj.mkpisnlh.webp)
 
 
 
