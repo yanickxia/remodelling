@@ -304,7 +304,7 @@ weight: 1
 > **💡 市场现状**：虽然新国标要求 1.8mm，但市面上大量的中低端窗户依然在使用 1.4mm 甚至 1.2mm 的型材。**正规的“系统窗”起步标准就是 1.8mm。**
 #### 避坑指南：虚标壁厚 (The Trap)
 
-![Gemini_Generated_Image_3a4lcb3a4lcb3a4l](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/20260126/Gemini_Generated_Image_3a4lcb3a4lcb3a4l.wj2aehhqo.webp)
+![Gemini_Generated_Image_zgp93kzgp93kzgp9](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/20260126/Gemini_Generated_Image_zgp93kzgp93kzgp9.86u5lrr5d3.webp)
 
 商家说 1.8mm，你量出来也是 1.8mm，但可能还是被坑了。为什么？
 
