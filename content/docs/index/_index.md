@@ -1,5 +1,5 @@
 ---
 bookCollapseSection: true
-title: "软装阶段"
-weight: 5
+title: "快速索引"
+weight: 6
 ---

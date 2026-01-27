@@ -1,6 +1,7 @@
 ---
 bookCollapseSection: true
 title: "拆旧阶段"
+weight: 3
 ---
 
 从这里我们就进入了正式的施工环节。在拆除开始之前，我们需要做几件事

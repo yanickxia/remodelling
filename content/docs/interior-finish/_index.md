@@ -1,6 +1,7 @@
 ---
 bookCollapseSection: true
 title: "硬装阶段"
+weight: 4
 ---
 
 硬装阶段最复杂的就是如何看懂报价，这里大致上分为几个部分。
