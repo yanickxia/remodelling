@@ -1,5 +1,4 @@
 ---
-bookCollapseSection: true
 title: "门窗"
 ---
 

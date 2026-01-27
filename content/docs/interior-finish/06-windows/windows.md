@@ -81,6 +81,24 @@ weight: 1
 ![Gemini_Generated_Image_s0sr3gs0sr3gs0sr](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/20260125/Gemini_Generated_Image_s0sr3gs0sr3gs0sr.6f16pegbai.webp)
 
 
+### 垂直等温线 (Isotherm)
+
+这是判断系统窗设计是否专业的另一个硬指标。
+
+![Gemini_Generated_Image_z0fzvxz0fzvxz0fz](https://cdn.jsdmirror.com/gh/yanickxia/picx-images-hosting@master/20260127/Gemini_Generated_Image_z0fzvxz0fzvxz0fz.pfugqzqqa.webp)
+
+- **什么是等温线？**
+  在窗框的断桥结构中，**窗框隔热条、窗扇隔热条、以及玻璃内部的间隔条**（或暖边条），这三者在剖面上应该处于**同一条垂直线**上。
+
+- **作用原理**：
+  这就好比给窗户穿了一件“连体棉袄”。当这三者对齐时，就在窗户内部形成了一道连续的、没有断点的**冷热分割线**。
+  - **室外侧**：全是冷空气，被隔绝在外。
+  - **室内侧**：全是暖空气，被锁在内。
+
+- **不对齐的后果**：
+  如果隔热条错位，热量就会寻找捷径（金属部分）“绕道”传递，形成热桥。这会导致窗框内侧温度降低，冬天容易**结露、滴水**。
+
+
 ### 密封胶条
 
 密封好不好，一看结构，二看材料。**EPDM (三元乙丙橡胶)** 是唯一推荐的标准材质，具有极强的耐老化和回弹性（汽车密封条同款）。
