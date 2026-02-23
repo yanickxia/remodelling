@@ -22,6 +22,11 @@ jobs:
           hugo-version: "latest"
           extended: true
 
+      - name: Clone theme
+        run: |
+          rm -rf themes/hugo-book
+          git clone https://github.com/alex-shpak/hugo-book themes/hugo-book
+
       - name: Build
         run: hugo --minify
 
